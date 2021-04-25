@@ -1,0 +1,127 @@
+body {
+  background-color: #F5F1D8;
+}
+
+a:link {
+  color: #4B5B4B;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4B5B4B;
+}
+
+a:hover {
+  color: #8EB08D;
+}
+
+
+ul {
+  font-family: righteous, cursive;
+  color: #4B5B4B;
+  text-decoration: none;
+  background-color: #DFF5D8;
+  border: 20px solid #DFF5D8;
+  list-style-type: none;
+  padding-left: 0px;
+  font-size: 50px;
+  margin-top: 1px;
+}
+li {
+  display: inline-block;
+}
+
+#home {
+  padding-left: 5px;
+}
+
+#gallery {
+  padding-left: 20px;
+}
+
+#about {
+  padding-left: 35px;
+}
+
+/* #login {
+  padding-left: 15px;
+} */
+
+h1 {
+   font-family: righteous, cursive;
+   text-align: center;
+   color: rgb(10, 43, 0);
+}
+
+p {
+   font-family: righteous, cursive;
+   text-align: center;
+   color: rgb(10, 43, 0);
+}
+#seed {
+  margin-left: 45%;
+}
+
+#minutes {
+  text-align: middle;
+  border-radius: 25px;
+  font-family: righteous, cursive;
+  border: none;
+  padding: 10px;
+  padding-left: 35vw;
+  height: 240px;
+}
+
+button {
+  font-family: righteous, cursive;
+  font-size: 35px;
+  width: 130px;
+  height: 50px;
+  border-radius: 2px;
+  color: #4B5B4B;
+  background: #DFF5D8;
+  margin-left: 46%;
+  box-shadow: none;
+}
+
+h3 {
+  font-family: righteous, cursive;
+  text-align: center;
+}
+
+#textbox {
+  margin-left: 45%;
+}
+
+#img {
+  width: 270px;
+  margin-left: 42%;
+}
+
+#button {
+  font-size: 28px;
+}
+
+#button0 {
+  font-size: 28px;
+}
+
+img {
+  text-align: center;
+}
+
+#one {
+  padding-left: 20px;
+}
+#four {
+  padding-left: 20px;
+}
+
+#two {
+  padding-left: 230px;
+}
+
+#three {
+  padding-left: 370px;
+}
+
